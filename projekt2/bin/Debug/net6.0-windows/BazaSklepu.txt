@@ -1,0 +1,4 @@
+Kość,25.08.2011 00:00:00,10,Przysmaki
+Karma,25.08.2011 00:00:00,100,Karmy
+Karma Premium,25.08.2012 00:00:00,100,Karmy
+Kuweta Niebieska,08.11.2014 00:00:00,100,Kuwety
